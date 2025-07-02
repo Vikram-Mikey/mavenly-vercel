@@ -627,7 +627,7 @@
     padding: 1rem 0;
   }
   .featured-programs-section {
-    width: 100% !important;
+    width: 80% !important;
     overflow-x: hidden;
     box-sizing: border-box;
   }
