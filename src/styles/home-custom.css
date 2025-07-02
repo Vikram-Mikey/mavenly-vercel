@@ -626,7 +626,13 @@
   .about-popular-classes-content {
     padding: 1rem 0;
   }
+  .featured-programs-section {
+    width: 100% !important;
+    overflow-x: hidden;
+    box-sizing: border-box;
+  }
 }
+
 
 .popular-class-dev {
     flex-direction: column;
